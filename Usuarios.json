@@ -6,22 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "7676c28fd50fc080",
-        "key": "key",
-        "expirydate": "15-10-2030",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "47347f08905a30a3",
-        "key": "nolose123",
-        "expirydate": "15-10-2030",
-        "Allowoffline": false
-    },
-    {
         "device_id": "d9092320deaf5f78",
-        "key": "crack1020",
-        "expirydate": "15-10-2031",
-        "Allowoffline": false
+        "key": "saiko",
+        "expirydate": "11-12-2026",
+        "Allowoffline": true
     },
-
 ]
