@@ -23,5 +23,12 @@
         "expirydate": "15-10-2030",
         "Allowoffline": false
     },
+    {
+        "device_id": "d9092320deaf5f78",
+        "key": "manco2020",
+        "expirydate": "15-10-2030",
+        "Allowoffline": false
+    },
+
 
 ]
