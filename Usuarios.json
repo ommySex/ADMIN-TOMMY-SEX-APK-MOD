@@ -10,5 +10,17 @@
         "key": "pruebatom",
         "expirydate": "12-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7676c28fd50fc080",
+        "key": "devangelito",
+        "expirydate": "12-12-2026",
+        "Allowoffline": false
     }
 ]
