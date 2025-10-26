@@ -9,6 +9,6 @@
         "device_id": "d9092320deaf5f78",
         "key": "pruebatom",
         "expirydate": "12-12-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
