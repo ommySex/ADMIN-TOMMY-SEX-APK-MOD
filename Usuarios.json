@@ -27,6 +27,6 @@
         "device_id": "626a23e7ae5edb10",
         "key": "devthiago",
         "expirydate": "12-12-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
