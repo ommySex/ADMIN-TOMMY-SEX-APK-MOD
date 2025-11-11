@@ -10,5 +10,11 @@
         "key": "key",
         "expirydate": "15-21-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "22391508233ce313",
+        "key": "nequi1",
+        "expirydate": "15-21-2026",
+        "Allowoffline": false
     }
 ]
